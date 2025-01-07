@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phone-no-otp/static/css/main.35210a35.css",
+    "main.js": "/phone-no-otp/static/js/main.c939d5b8.js",
+    "static/js/156.a46a3c16.chunk.js": "/phone-no-otp/static/js/156.a46a3c16.chunk.js",
+    "index.html": "/phone-no-otp/index.html",
+    "main.35210a35.css.map": "/phone-no-otp/static/css/main.35210a35.css.map",
+    "main.c939d5b8.js.map": "/phone-no-otp/static/js/main.c939d5b8.js.map",
+    "156.a46a3c16.chunk.js.map": "/phone-no-otp/static/js/156.a46a3c16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35210a35.css",
+    "static/js/main.c939d5b8.js"
+  ]
+}
