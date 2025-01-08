@@ -1,12 +1,15 @@
 {
+  "homepage": "https://bhaktikulk.github.io/phone-no-otp",
   "name": "phone-otp-verification",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "firebase": "^11.1.0",
     "otp-input-react": "^0.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.1",
     "react-icons": "^5.4.0",
     "react-phone-input-2": "^2.15.1",
     "react-scripts": "5.0.1"
@@ -15,7 +18,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
